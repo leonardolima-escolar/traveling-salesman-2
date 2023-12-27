@@ -81,7 +81,7 @@ nx.draw(
     font_size=8,
 )
 
-(edges_prim,) = ax.plot([], [], "blue", lw=2)
+(edges_prim,) = ax.plot([], [], "red", lw=2)
 
 
 def init_prim():
